@@ -1,4 +1,3 @@
-
 # 第一次实验
 
 ### 实验目的
@@ -29,49 +28,44 @@
 <img src="img\vb-exp-layout.png" alt="tuopu" style="zoom:50%;" />
 
 - 环境
-
-  - ![](img\target.bmp)
-  - <img src="img\interfaces.bmp" style="zoom: 25%;" />
-
+  - ![](img\target.png)
+  - <img src="img\interfaces.png" style="zoom: 25%;" />
 - 拓扑图对应设备一览
-
-  - <img src="img\struct.bmp" alt="tuopu" style="zoom: 25%;" />
-
+  - <img src="img\struct.png" alt="tuopu" style="zoom: 25%;" />
 - 网关网卡设置一览
-
-  - <img src="img\gw_interner.bmp" alt="gw" style="zoom: 50%;" />
+  - <img src="img\gw_interner.png" alt="gw" style="zoom: 50%;" />
 
 - 网络联通测试(所有节点可以访问互联网)
 
-  - Debian2![](img\Debian2_net.bmp)
+  - Debian2![](img\Debian2_net.png)
 
   - XP2
 
-    <img src="img\xp2_net.bmp" style="zoom:25%;" />
+    <img src="img\xp2_net.png" style="zoom:25%;" />
 
   - XP1
 
-    <img src="img\xp1_net.bmp" style="zoom:25%;" />
+    <img src="img\xp1_net.png" style="zoom:25%;" />
 
   - Kali1
 
-    ![](img\kali1_net.bmp)
+    ![](img\kali1_net.png)
 
   - kali-attacker
 
-    ![](F:\A_homework\2022-ns-public-chen-xueting\2022-ns-public-chen-xueting\第一次实验\img\attacker_net.bmp)
+    ![](F:\A_homework\2022-ns-public-chen-xueting\2022-ns-public-chen-xueting\第一次实验\img\attacker_net.png)
 
   - gateway
 
-    <img src="img\xp2_net.bmp" style="zoom:25%;" />
+    <img src="img\xp2_net.png" style="zoom:25%;" />
 
 - 靶机访问攻击者主机联通测试
 
   攻击者主机IP`10.0.2.4`
 
-  ![](img\xp2_attacker.bmp)
+  ![](img\xp2_attacker.png)
 
-  ![](img\kali_attacker.bmp)
+  ![](img\kali_attacker.png)
 
 - 攻击者主机无法直接访问靶机
 
@@ -79,11 +73,11 @@
 
   kali-victim IP地址`172.16.111.124`
 
-  ![](img\attacker_kali.bmp)
+  ![](img\attacker_kali.png)
 
   
 
-  ![](F:\A_homework\2022-ns-public-chen-xueting\2022-ns-public-chen-xueting\第一次实验\img\attacker_xp.bmp)
+  ![](F:\A_homework\2022-ns-public-chen-xueting\2022-ns-public-chen-xueting\第一次实验\img\attacker_xp.png)
 
   
 
@@ -93,11 +87,11 @@
 
   - 访问靶机 IP `172.16.111.124`
 
-    <img src="F:\A_homework\2022-ns-public-chen-xueting\2022-ns-public-chen-xueting\第一次实验\img\gw.bmp" style="zoom:50%;" />
+    <img src="F:\A_homework\2022-ns-public-chen-xueting\2022-ns-public-chen-xueting\第一次实验\img\gw.png" style="zoom:50%;" />
 
 - 靶机的所有对外上下行流量必须经过网关
 
-  ![](img\pcap.bmp)
+  ![](img\pcap.png)
 
   ## 注意事项
 
